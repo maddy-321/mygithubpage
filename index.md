@@ -123,27 +123,44 @@ XGBoost is an algorithm that has recently been dominating applied machine learni
 
 ## Projects
 
+### Credit Card Fraud Detection
 
-### 
-## Header 3
+Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project, that is exactly what we are going to be doing as well. Using a dataset of of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, we are going to identify transactions with a high probability of being credit card fraud. In this project, we will build and deploy the following two machine learning algorithm.
+Lo
+[click here for the repository link ] (https://github.com/maddy-321/credit-card-fraud-detection-/blob/master/Credit%20Card%20Fraud%20Detection%20(Jupyter%20Notebook).ipynb)
 
-- Bulleted
-- List
+### PORTFOLIO FOR COMP 6220 : Data science 
 
-1. Numbered
-2. List
+This portfolio is developed as a project in Data science. 
+this contain  
+Portfolio projects
 
-**Bold** and _Italic_ and `Code` text
+### Analysis of  data for cycling of professor steve cassidy 
+### Analysis of COVID-19 data(Live project)
+### Predicting Genre of Book from Summaries
 
-[Link](url) and ![Image](src)
-```
+[click here for the repository link ] (https://github.com/maddy-321/Portfolio)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Board Game Prediction 
+[click here for the repository link ](https://github.com/maddy-321/BOARD-GAME-REVIEW-PREDICTION---/blob/master/board%20game%20prediction.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maddy-321/mygithubpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This work presents a system that facilitates prediction of the winner in a sport game. The system consists of methods for: collection of data from the Internet for games in various sports, preprocessing of the acquired data, feature selection and model building. Many of the algorithms for prediction and classification implemented for this kind of problems.
 
-### Support or Contact
+### Botnet Detection
+[click here for the repository link ](https://github.com/maddy-321/BOTNET-DETECTION)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is work on botnet detection as a comp 6220 : Data Science Project. 
+
+###  Smile Classifier 
+[click here for the repository link ](https://github.com/maddy-321/Smile-clasifier-)
+
+The works detects the how smile is classified using Haarcascadde algorithm. 
+
+### FACIAL EXPRESSION RECOGNITION 
+[click here for the repository link ](https://github.com/maddy-321/Facial-expression-Recognition-cnn-/blob/main/46160361_Madhur_Sabherwal%20(3).ipynb)
+
+GOT 70 PERCENT ACCURACY USING CNN AND OTHER MODEL IN INCLASS COMPETTION OF MACQUARIE UNIVERSITY
+
+## WORK UNDERGOING 
+THERE ARE LOTS OF WORK UNDERGOING AND WILL BE UPLOADED SOON. 
