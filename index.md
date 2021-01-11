@@ -166,5 +166,11 @@ GOT 70 PERCENT ACCURACY USING CNN AND OTHER MODEL IN INCLASS COMPETTION OF MACQU
 [click here for the repository link ](https://github.com/maddy-321/Bitcoin-price-prediction-using-facebook-prophet-)
 i HAVE CREATED THIS MODEL TO PREDICT BITCOIN PRICE IN THE COMING NEXT 30 DAYS USING FACEBOOK PROPHET.
 
+
+###generative adversarial network (GAN) 
+[click here for the repository link ](https://github.com/maddy-321/General-adverserial-Network-)
+A generative adversarial network (GAN) is a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014.[1]
+Two neural networks contest with each other in a game (in the form of a zero-sum game, where one agent's gain is another agent's loss).
+
 ## WORK UNDERGOING 
 THERE ARE LOTS OF WORK UNDERGOING AND WILL BE UPLOADED SOON. 
