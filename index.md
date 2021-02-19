@@ -174,7 +174,7 @@ Two neural networks contest with each other in a game (in the form of a zero-sum
 
 ### KPMG VIRTUAL INTERNSHIP  
 Participated in the open KPMG Data Analytics Consulting Virtual Internship with Forage Modules
-[click here for the repository link ](https://github.com/maddy-321/General-adverserial-Network-)
+[click here for the repository link ](https://github.com/maddy-321/KPMG-Data-Analytics-Consulting-Virtual-Internship)
 KPMG Data Analytics Consulting Virtual Internship
 •	Data Quality Assessment
 •	Data Insights
