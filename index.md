@@ -195,5 +195,18 @@ Participated in the open ANZ Data@ANZ Program with Forage Modules.
 •	Predictive Analysis
 
 
+### BCG virtual internship program 
+Participated in the open ANZ Data@ANZ Program with Forage Modules.
+
+[click here for the repository link ](https://github.com/maddy-321/BCG-Virtual-internship-)
+
+•	Exploratory Data Analysis 
+
+•	Predictive Analysis
+
+
+https://github.com/maddy-321/BCG-Virtual-internship-
+
+
 ## WORK UNDERGOING 
 THERE ARE LOTS OF WORK UNDERGOING AND WILL BE UPLOADED SOON. 
