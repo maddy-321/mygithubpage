@@ -180,5 +180,13 @@ KPMG Data Analytics Consulting Virtual Internship
 •	Data Insights
 •	Data Insights and presentation
 
+### ANZ@ANZ
+
+[click here for the repository link ](https://github.com/maddy-321/ANZ-Virtual-internship-)
+Participated in the open ANZ Data@ANZ Program with Forage Modules
+•	Exploratory Data Analysis 
+•	Predictive Analysis
+
+
 ## WORK UNDERGOING 
 THERE ARE LOTS OF WORK UNDERGOING AND WILL BE UPLOADED SOON. 
