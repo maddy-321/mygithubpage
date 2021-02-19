@@ -172,5 +172,13 @@ i HAVE CREATED THIS MODEL TO PREDICT BITCOIN PRICE IN THE COMING NEXT 30 DAYS US
 A generative adversarial network (GAN) is a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014.[1]
 Two neural networks contest with each other in a game (in the form of a zero-sum game, where one agent's gain is another agent's loss).
 
+### KPMG VIRTUAL INTERNSHIP  
+Participated in the open KPMG Data Analytics Consulting Virtual Internship with Forage Modules
+[click here for the repository link ](https://github.com/maddy-321/General-adverserial-Network-)
+KPMG Data Analytics Consulting Virtual Internship
+•	Data Quality Assessment
+•	Data Insights
+•	Data Insights and presentation
+
 ## WORK UNDERGOING 
 THERE ARE LOTS OF WORK UNDERGOING AND WILL BE UPLOADED SOON. 
